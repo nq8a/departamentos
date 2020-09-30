@@ -1,0 +1,87 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-family: 'Lucida Bright';
+	font-size: 16px;
+}
+
+.user{
+	font-family: 'Lucida Brigth';
+	font-size: 16px;
+	color: #fff;
+	font-weight: bold;
+}
+
+.titulo_bajo{
+	font-size: 30px;
+	color: blue;
+	font-weight: bold;
+}
+
+.btn-agregar{
+	padding: 5px;
+	border-radius: 10px;
+	background-color: #66D336;
+	color: black;
+}
+
+.btn-agregar:hover{
+	padding: 5px;
+	border-radius: 10px;
+	background-color: white;
+	color: black;
+}
+
+.btn-modificar{
+	padding: 2px;
+	border-radius: 10px;
+	background-color: #9AC3DF;
+	color: black;
+}
+
+.btn-modificar:hover{
+	padding: 2px;
+	border-radius: 10px;
+	background-color: white;
+	color: black;
+}
+
+.btn-volver{
+	padding: 2px;
+	border-radius: 10px;
+	background-color: #FE0023;
+	color: black;
+}
+
+.btn-volver:hover{
+	padding: 2px;
+	border-radius: 10px;
+	background-color: white;
+	color: black;
+}
+
+a>button{
+	padding: 5px;
+	border-radius: 10px;
+	background-color: #66D336;
+	color: black;
+}
+a>button:hover{
+	padding: 5px;
+	border-radius: 10px;
+	background-color: white;
+	color: black;
+}
+ #letras_menu{
+	color: black;
+	font-weight: bold;
+}
+
+ #letras_menu:hover{
+	color: grey;
+	font-weight: bold;
+	font-size: 1.2em;
+}
